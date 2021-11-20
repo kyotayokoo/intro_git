@@ -1,3 +1,6 @@
 gitの練習します
 git add
 git commit
+
+
+secondを追加
