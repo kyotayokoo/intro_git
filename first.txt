@@ -4,3 +4,5 @@ git commit
 
 
 secondを追加
+
+git status
